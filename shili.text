@@ -1,0 +1,10 @@
+headers = {
+    "PRIVATE-TOKEN": "XXXXXXX"
+}
+
+base_url = 'https://git.woa.com'
+get_group_url = base_url + '/api/v3/groups/{group_id}'
+
+
+
+
